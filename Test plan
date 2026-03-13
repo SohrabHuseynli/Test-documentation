@@ -1,0 +1,27 @@
+# Test Plan – Login Functionality
+
+## Objective
+Login səhifəsinin düzgün işlədiyini yoxlamaq.
+
+## Scope
+- Username və Password sahələri
+- Login düyməsi
+- Error mesajları
+
+## Test Approach
+- Functional testing
+- UI testing
+- Negative testing
+
+## Entry Criteria
+- Sistem deploy olunub
+- Test environment hazırdır
+
+## Exit Criteria
+- Bütün test case-lər icra olunub
+- Kritik bug-lar fix olunub
+
+## Deliverables
+- Test Cases
+- Bug Reports
+- Test Summary Report
